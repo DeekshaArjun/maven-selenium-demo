@@ -37,3 +37,4 @@ ENV CHROME_BIN=/usr/bin/google-chrome-stable
 
 # If this image is meant to run tests inside the container, keep this:
 CMD ["mvn", "test"]
+
